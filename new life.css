@@ -1,0 +1,29 @@
+h1, h2{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 3em;
+   letter-spacing: normal;
+   text-align: center;
+   text-decoration: underline;
+}
+div{
+font-weight: 600;
+font-size: 1em;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+margin-top: 0em;
+color: brown;
+}
+img{
+height: 100px;
+width: 100px;
+float: left;
+}
+p.nowrap{
+clear: both;
+color: darkblue;
+}
+
+
+
+    
+
